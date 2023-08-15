@@ -1,15 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-// // Работа с числами
+﻿// // Работа с числами
 // Задание 1:
 // Курьерская служба выполняет доставки по единому тарифу: 150р. фиксировано + 70р. за каждый километр дороги.
 // Напишите программу, которая будет запрашивать у пользователе длину пути в км и выводить на консоль цену доставки.
 
-// Console.WriteLine("Введите киллометраж");
-// int km = Convert.ToInt32(Console.ReadLine());
-// int prise = 150 + 70 * km;
+Console.WriteLine("Введите киллометраж");
+int km = Convert.ToInt32(Console.ReadLine());
+int prise = 150 + 70 * km;
 
-// Console.WriteLine(prise);
+Console.WriteLine(prise);
 
 // Задание 2:
 // Банк предоставляет 3 акционных вклада:
