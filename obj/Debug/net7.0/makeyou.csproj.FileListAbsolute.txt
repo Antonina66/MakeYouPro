@@ -1,0 +1,15 @@
+/Users/dev/Documents/dev/makeyou/MakeYouPro/bin/Debug/net7.0/makeyou
+/Users/dev/Documents/dev/makeyou/MakeYouPro/bin/Debug/net7.0/makeyou.deps.json
+/Users/dev/Documents/dev/makeyou/MakeYouPro/bin/Debug/net7.0/makeyou.runtimeconfig.json
+/Users/dev/Documents/dev/makeyou/MakeYouPro/bin/Debug/net7.0/makeyou.dll
+/Users/dev/Documents/dev/makeyou/MakeYouPro/bin/Debug/net7.0/makeyou.pdb
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.csproj.AssemblyReference.cache
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.AssemblyInfoInputs.cache
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.AssemblyInfo.cs
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.csproj.CoreCompileInputs.cache
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.dll
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/refint/makeyou.dll
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.pdb
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/makeyou.genruntimeconfig.cache
+/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/Debug/net7.0/ref/makeyou.dll
