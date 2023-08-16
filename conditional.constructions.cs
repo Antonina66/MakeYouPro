@@ -9,15 +9,14 @@
 // Console.WriteLine("Повторите пароль");
 // int secondPassword = Convert.ToInt32(Console.ReadLine());
 
-// if (firstPassword==secondPassword)
-// {
-//     Console.WriteLine("Пароли совпадают");
-// }
-// if (firstPassword!=secondPassword)
-// {
-//     Console.WriteLine("Пароли не совпадают");
-// }
-
+if (firstPassword == secondPassword)
+{
+	Console.WriteLine("Пароли совпадают");
+}
+if (firstPassword != secondPassword)
+{
+	Console.WriteLine("Пароли не совпадают");
+}
 
 // Задание 2:
 // Позиция товара в чеке интернет магазина описывается следующими значениями:
