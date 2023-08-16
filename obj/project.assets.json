@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/antonina/.nuget/packages/": {}
+    "/Users/dev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/antonina/Documents/MakeYouPro/makeyou.csproj",
+      "projectUniqueName": "/Users/dev/Documents/dev/makeyou/MakeYouPro/makeyou.csproj",
       "projectName": "makeyou",
-      "projectPath": "/Users/antonina/Documents/MakeYouPro/makeyou.csproj",
-      "packagesPath": "/Users/antonina/.nuget/packages/",
-      "outputPath": "/Users/antonina/Documents/MakeYouPro/obj/",
+      "projectPath": "/Users/dev/Documents/dev/makeyou/MakeYouPro/makeyou.csproj",
+      "packagesPath": "/Users/dev/.nuget/packages/",
+      "outputPath": "/Users/dev/Documents/dev/makeyou/MakeYouPro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/antonina/.nuget/NuGet/NuGet.Config"
+        "/Users/dev/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

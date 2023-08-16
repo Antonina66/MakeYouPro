@@ -29,7 +29,7 @@
 // Если количество товара в чеке больше либо равно 5, то к товару применяется скидка в 10%. Если товар учувствует в акции - применяется скидка в 15%. Скидки могут суммироваться.
 string productName;
 Console.WriteLine("Введите название продукта");
-productName=Console.ReadLine();
+productName = Console.ReadLine();
 
 Console.WriteLine("Введите цену продукта");
 int productCost = Convert.ToInt32(Console.ReadLine());
@@ -38,22 +38,21 @@ Console.WriteLine("Напишите количество продуктов");
 int productQuantity = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Напишите участвует ли продукт в акции, если да введите - 1, если нет введите - 0");
-int productStock= Convert.ToInt32(Console.ReadLine());
-
+int productStock = Convert.ToInt32(Console.ReadLine());
 
 
 double discount = productCost % 90;
-double sum =  productCost - discount;
+double sum = productCost - discount;
 
-if (productQuantity>=5 || productStock==0) 
+if (productQuantity >= 5)
 {
-    Console.WriteLine("Ваш товар: " + productName + Environment.NewLine + "Количество товаров: " + productQuantity + Environment.NewLine + "Сумма вашего товара с учетом скидки: "+sum);
+	Console.WriteLine("Ваш товар: " + productName + Environment.NewLine + "Количество товаров: " + productQuantity + Environment.NewLine + "Сумма вашего товара с учетом скидки: " + sum);
 }
 
 double discountTow = productCost % 85;
-double sumTow =  productCost - discountTow;
+double sumTow = productCost - discountTow;
 
-if (productStock==1 || productQuantity<6) 
+if (productStock == 1)
 {
-     Console.WriteLine("Ваш товар: " + productName + Environment.NewLine + "Количество товаров: " + productQuantity + Environment.NewLine + "Сумма вашего товара с учетом скидки: "+sumTow);
+	Console.WriteLine("Ваш товар: " + productName + Environment.NewLine + "Количество товаров: " + productQuantity + Environment.NewLine + "Сумма вашего товара с учетом скидки: " + sumTow);
 }
